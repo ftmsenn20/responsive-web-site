@@ -16,5 +16,5 @@ Bu repository, basit bir restaurant web sitesi için HTML, CSS ve bir miktar Jav
 
 Aşağıdaki gif, restaurant web sitesinin responsive tasarımını göstermektedir:
 
-![Responsive Web Sitesi](responsive-web-sitesi.gif)
+![responive restaurant web sitesi](responsive-web-sitesi.gif)
 
